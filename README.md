@@ -26,14 +26,6 @@ I bring data to life with:
 
 ##  Certifications
 
-<a href="https://www.credly.com/badges/e9770f0c-83bc-45bb-a859-2a9589bc96df/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2024-tableau-visionary.png?raw=true" width="20%">
-</a>
-
-<a href="https://www.credly.com/badges/3512eb42-d819-4e6d-b0ed-93fec81d1e91/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-ambassador.png?raw=true" width="19%">
-</a>
-
 <a href="https://www.credly.com/badges/f481f7d5-a216-4ffc-aa1b-74b7fe388fab">
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-certified-professional.png?raw=true" width="19%">
 </a>
